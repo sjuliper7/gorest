@@ -5,3 +5,4 @@ all my experiment
 
 ### What have implemented
 * Nginx Load balancer
+* Semantic Release
