@@ -1,6 +1,6 @@
 {
   "name": "gorest",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This simple api use golang echo labstack framework, this repository aim to enhance my knowledge about system design and tech stack. This project will be a module for all my experiment",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
