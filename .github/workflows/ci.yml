@@ -22,11 +22,6 @@ jobs:
       - name: Install Pacakges
         run: npm ci
 
-      - name: Build Step
-        env:
-          CI: ""
-        run: npm run build
-
       - name: Run Semantic Release
         run: npx semantic-release
         env:
