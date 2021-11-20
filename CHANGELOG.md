@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/sjuliper7/gorest/compare/v1.0.0...v1.0.1) (2021-11-20)
+
+
+### Bug Fixes
+
+* **config:** update .gitgonore ([f2b6ae5](https://github.com/sjuliper7/gorest/commit/f2b6ae56b6467fe910962ac0a154dd802d73fa00))
+
 # 1.0.0 (2021-11-20)
 
 
